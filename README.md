@@ -54,4 +54,4 @@ I believe that learning never stops. Constantly evolving in the tech world, I am
 
 ---
 
-💬 **Fun Fact:** Despite living in my home country my entire life, folks say I have a foreign accent! 🌍
+💬 **Fun Fact:** Despite living in my home country my entire life, folks from the same country say I have a foreign accent! 🌍
