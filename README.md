@@ -73,8 +73,3 @@ I believe learning never stops. As the tech world evolves, so do I — constantl
 - Embedded strong security practices throughout the development process.
 - Maintained clean version control workflows using Git, GitHub, and GitLab.
 
-
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damian-medrano/)
-
